@@ -12,6 +12,6 @@ Un programa que printea "Hello World"
 
 <h2>Para compilar y ejecutar hay dos comandos:</h2>
 
-`gcc helloWorld.c -o hello`
+`gcc helloWorld.c -o output.txt`
 
-`./hello`
+`./output.txt`
